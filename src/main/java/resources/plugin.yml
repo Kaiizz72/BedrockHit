@@ -1,0 +1,4 @@
+name: BedrockProCombo
+version: 1.0
+main: me.yourname.bedrockcombo.BedrockCombo
+api-version: 1.21
